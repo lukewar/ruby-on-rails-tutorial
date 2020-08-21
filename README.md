@@ -12,3 +12,4 @@ Project based of [tutorial](http://tutorials.jumpstartlab.com/projects/blogger.h
 * RESTful design
 * Adding gems for extra features
 
+test
