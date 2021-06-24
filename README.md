@@ -11,3 +11,5 @@ Project based of [tutorial](http://tutorials.jumpstartlab.com/projects/blogger.h
 * Views with forms, partials, and helpers
 * RESTful design
 * Adding gems for extra features
+
+
